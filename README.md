@@ -1,5 +1,5 @@
 # Welcome!
-## maddymyoung.github.io
+maddymyoung.github.io
 <br/>
 ## About Me
 <br/>
