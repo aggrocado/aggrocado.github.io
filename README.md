@@ -13,4 +13,6 @@ Young, M., McKie, R., & Reissing, E. (2025). Validation of the stereotypes about
 
 Young, M., McKie, R., & Reissing, E. (2025, May 23-24). Validation of the Stereotypes about Male Sexuality Scale for Gay, Bisexual, and Other Men who Have Sex With Men [Conference Presentation]. Interdisciplinary Conference in Psychology 2025, Ottawa, ON, Canada.
 
-## Projects
+## Proficiencies
+**R**: Performed a scale validation (_database cleaning, reliability analyses, confirmatory factor analyses)_
+**Python**: Earned the certification "**Python for Data Analysis**" from [[freecodecamp.org]]
