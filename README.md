@@ -8,7 +8,8 @@ This is the portfolio for Madison Young
 
 ### Proficiencies
 - **R**: Performed a scale validation (_database cleaning, reliability analyses, confirmatory factor analyses)_
-- **Python**: Earned the certification "**Python for Data Analysis**" from <a href="https://www.freecodecamp.org">FreeCodeCamp</a>.
+- **Python**: Earned the certification _Python for Data Analysis_ from <a href="https://www.freecodecamp.org">FreeCodeCamp</a>.
+- **Excel**: Certified in _Excel Level II: Intermediate_; performed database cleaning and descriptive analysis as a Reporting Analyst at Indigenous Services Canada
 <hr>
 
     <div class="container">
