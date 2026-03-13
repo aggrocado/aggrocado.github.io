@@ -14,4 +14,4 @@ Young, M., McKie, R., & Reissing, E. (2025, May 23-24). Validation of the Stereo
 
 2. [Bard D&D Character Sheet](https://docs.google.com/spreadsheets/d/1UzxQElecXRHC4Nny0XR1Vf7QutzgOdwzrKepBIAEIXE/edit?usp=sharing). The character sheet will update based on values inputted. Some cells still require manual input (_e.g., max HP, bardic inspiration_). Working to update this.
 
-3. [Confirmatory Factor Analysis](https://drive.google.com/file/d/1X7MOzAPLRtRLvgzWsjEfPA1X4dGGLVBf/view?usp=sharing). Undergraduate thesis project analyzing the Stereotypes about Male Sexualty Scale results. Downloadable format.
+3. [Confirmatory Factor Analysis](https://drive.google.com/file/d/1X7MOzAPLRtRLvgzWsjEfPA1X4dGGLVBf/view?usp=sharing). Undergraduate thesis project analyzing the Stereotypes about Male Sexualty Scale results using the lavaan R package.
